@@ -1,1 +1,1 @@
-sdvdwocdm jodcjwecj scjewcojewf
+sh 'sudo docker run -d --name mavencontai newmaven mvn clean install'
